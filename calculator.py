@@ -7,5 +7,5 @@ def multiply(a, b):
   return a*b
 def divide(a, b):
   return a / b
-def power_premium(a, b):
+def power_new(a, b):
   return a ** b
