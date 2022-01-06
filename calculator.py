@@ -9,5 +9,3 @@ def divide(a, b):
   return a / b
 def power_new(a, b):
   return a ** b
-def say_hell():
-  print("Hello")
